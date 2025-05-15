@@ -59,7 +59,7 @@ header h1 {
 
 /* Price Section */
 .price-section {
-    padding: 2rem 0;
+    padding: 8px;
 }
 
 .price-box {
@@ -68,7 +68,6 @@ header h1 {
     padding: 2rem;
     text-align: center;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-    margin-top: -2rem;
     border-top: 5px solid var(--danger-color);
 }
 

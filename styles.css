@@ -69,6 +69,7 @@ header h1 {
     text-align: center;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     margin-top: -2rem;
+    border-top: 5px solid var(--danger-color);
 }
 
 .price-box h2 {
